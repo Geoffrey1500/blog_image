@@ -1,0 +1,38 @@
+certifi==2020.4.5.1
+chardet==3.0.4
+cPython==0.0.5
+cycler==0.10.0
+et-xmlfile==1.0.1
+Figures==0.3.5
+hdbscan @ file:///D:/bld/hdbscan_1589306184340/work
+idna==2.9
+jdcal==1.4.1
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1589812474002/work
+kiwisolver==1.2.0
+matplotlib==3.2.1
+mkl-service==2.3.0
+mpmath==1.1.0
+numpy @ file:///D:/bld/numpy_1588605187257/work
+openpyxl==3.0.3
+pandas @ file:///D:/bld/pandas_1590752944628/work
+patsy==0.5.1
+pymongo==3.10.1
+pyparsing==2.4.7
+PyQt5==5.12.3
+PyQt5-sip==4.19.18
+PyQtChart==5.12
+PyQtWebEngine==5.12.1
+python-dateutil==2.8.1
+pytz==2020.1
+requests==2.23.0
+scikit-learn @ file:///D:/bld/scikit-learn_1589921036638/work
+scipy==1.4.1
+seaborn==0.10.1
+Shapely==1.7.0
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+statsmodels==0.11.1
+sympy==1.6
+threadpoolctl @ file:///tmp/tmp79xdzxkt/threadpoolctl-2.1.0-py3-none-any.whl
+tornado==6.0.4
+urllib3==1.25.9
+wincertstore==0.2
